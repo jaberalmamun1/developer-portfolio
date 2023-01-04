@@ -1,0 +1,60 @@
+*{
+    maigin: 0;
+    font-family: 'Open Sans' Arial, sans-serif;
+}
+.header{
+    background: #FFF8F3;
+    background-image: url('../images/B612_20210409_142345_098.jpg');
+    background-repeat: no-repeatsss;
+    background-position: bottom right ;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+.nav-title{
+    font-weight: 800px;
+    font-size: 45px;
+
+
+}
+.texen{
+    color: red;
+}
+nav li{
+    list-style: none;
+    margin-left: 80px;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+.btn-color{
+    height:L 64px;
+    border-radius: 5px;
+    background: rgba(236, 126, 23, 0.903);
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+}
+.baner{
+   margin: 0 200px;
+   display: flex;
+   align-items: center;
+}
+.baner-title{
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.baner-sub{
+    font-weight: 600;
+    font-size: 45px;
+    
+}
+.baner-p{
+    color: cornflowerblue;
+    font-size: 20px;
+}
